@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\StackT\StackT\bin\Debug\StackT.exe.config
+C:\Users\user\Desktop\StackT\StackT\bin\Debug\StackT.exe
+C:\Users\user\Desktop\StackT\StackT\bin\Debug\StackT.pdb
+C:\Users\user\Desktop\StackT\StackT\obj\Debug\StackT.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\StackT\StackT\obj\Debug\StackT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\StackT\StackT\obj\Debug\StackT.exe
+C:\Users\user\Desktop\StackT\StackT\obj\Debug\StackT.pdb
